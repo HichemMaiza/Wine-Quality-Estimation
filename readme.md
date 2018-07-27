@@ -9,5 +9,5 @@ wine qaulity datasets
 Hichem MAIZA
 ## Acknoldgements:
 - Thank you google for tensorflow
-- Thank Dr. Fethi bougares for the datasets
-- Thank you Prof. Andrew ng for your great courses
+- Thank Dr. Fethi BOUGARES for the datasets
+- Thank you Prof. Andrew Ng for your great courses
