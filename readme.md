@@ -4,7 +4,7 @@ testset
 # Software specifications: 
 These projects where designed and tested on Lemans-university servers which are equiped with GPU graphic cards.   
 # Train/Test Data
-wine qaulity datasets
+wine quality train/test datasets
 ## Author 
 Hichem MAIZA
 ## Acknoldgements:
